@@ -47,3 +47,6 @@ I create responsive and animated websites that look great and work perfectly on 
 ---
 
 💡 *Open to freelance projects and collaborations. Let's build something great together!*
+
+<img src="https://hits.sh/github.com/svitlanarudova.svg?view=today-total&color=007bff&label=&style=flat-square" width="1" height="1" alt="" />
+
